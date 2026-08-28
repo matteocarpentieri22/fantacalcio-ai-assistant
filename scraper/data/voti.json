@@ -1,0 +1,2516 @@
+{
+  "last_update": "2026-08-28T16:36:22.157356",
+  "data": {
+    "Atalanta": [
+      {
+        "name": "Carnesecchi",
+        "role": "p",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          },
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Zappacosta",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kolasinac",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Scalvini",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kossounou",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bernasconi",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pasalic",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gaetano",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "7.5",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Elmas",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Samardzic",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zalewski",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ederson D.S.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Scamacca",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Raspadori",
+        "role": "a",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "De Ketelaere",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Krstovic",
+        "role": "a",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      }
+    ],
+    "Bologna": [
+      {
+        "name": "Skorupski",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Zortea",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Miranda J.",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Holm",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Heggem",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Helland",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bernardeschi",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Orsolini",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Odgaard",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cambiaghi",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ferguson",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "El Azzouzi O.",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rowe",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Amondarain",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Piccoli",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dovbyk",
+        "role": "a",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      }
+    ],
+    "Cagliari": [
+      {
+        "name": "Caprile",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zappa",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Obert",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rodriguez Ju.",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zè Pedro",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Aurelio",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Deiola",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Winks",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Adopo",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "7.5",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Fazzini",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Felici",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Romano",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Maldini",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Borrelli",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mutandwa",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mendy P.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Como": [
+      {
+        "name": "Butez",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Chalobah T.",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Couto",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Valle",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ramon",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Smolcic I.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Caqueret",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Da Cunha",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Perrone",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Liberali",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Paz N.",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Baturina",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rodriguez Je.",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Milla",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": [
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Diao",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Douvikas",
+        "role": "a",
+        "voto": "6.5",
+        "fantavoto": "9.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      }
+    ],
+    "Fiorentina": [
+      {
+        "name": "De Gea",
+        "role": "p",
+        "voto": "5.5",
+        "fantavoto": "1.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "4"
+          }
+        ]
+      },
+      {
+        "name": "Ranieri L.",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dragusin",
+        "role": "d",
+        "voto": "4",
+        "fantavoto": "4",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dodò",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Jimenez A.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Joao Mario",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Valdepenas",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mandragora",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Fagioli",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Brescianini",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ndour",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Atta",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mastantuono",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Oulai",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kean",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pellegrino M.",
+        "role": "a",
+        "voto": "5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      }
+    ],
+    "Frosinone": [
+      {
+        "name": "Palmisani",
+        "role": "p",
+        "voto": "6.5",
+        "fantavoto": "5.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Terzic",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Monterisi",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cittadini",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Oyono A.",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Calvani",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bracaglia",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zerbin",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Fini",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Hasa",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Masini",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Calò",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cichella",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Schmid",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Raimondo",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kvernadze",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      }
+    ],
+    "Genoa": [
+      {
+        "name": "Bijlow",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "4",
+        "bonus_malus": [
+          {
+            "Gol subiti": "2"
+          }
+        ]
+      },
+      {
+        "name": "Vasquez",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ostigard",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Marcandalli",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Norton-Cuffy",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Otoa",
+        "role": "d",
+        "voto": "4.5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Messias",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Frendrup",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Baldanzi",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Sow",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ellertsson",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Amorim",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Meichtry",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Colombo",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Vitinha O.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zulevic",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Inter": [
+      {
+        "name": "Martinez Jo.",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Dimarco",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bastoni",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Stones",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Akanji",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bisseck",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Zielinski",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Barella",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Calhanoglu",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "9.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Luis Henrique",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Diouf",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "9",
+        "bonus_malus": [
+          {
+            "Assist": "2"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Stankovic A.",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Sucic P.",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Martinez L.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bonny",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Esposito F.P.",
+        "role": "a",
+        "voto": "7.5",
+        "fantavoto": "11.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Assist": "1"
+          }
+        ]
+      }
+    ],
+    "Juventus": [
+      {
+        "name": "Perin",
+        "role": "p",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Vicario",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bremer",
+        "role": "d",
+        "voto": "7.5",
+        "fantavoto": "10.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Celik",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kalulu",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cambiaso",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kelly L.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Locatelli",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Douglas Luiz",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "McKennie",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Koopmeiners",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zhegrova",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Conceicao",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "7.5",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Boga",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kolo Muani",
+        "role": "a",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Yildiz",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Lazio": [
+      {
+        "name": "Mandas",
+        "role": "p",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Marusic",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pedraza",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Tavares N.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Doekhi",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Provstgaard",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Floriani Mussolini",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zaccagni",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Frattesi",
+        "role": "c",
+        "voto": "7.5",
+        "fantavoto": "10.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Rovella",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cancellieri",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Isaksen",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dele-Bashiru",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Taylor K.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dia",
+        "role": "a",
+        "voto": "6.5",
+        "fantavoto": "7",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Noslin",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Lecce": [
+      {
+        "name": "Falcone",
+        "role": "p",
+        "voto": "7",
+        "fantavoto": "7",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gallo",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gaspar K.",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Tiago Gabriel",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Veiga D.",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "7",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Ndaba",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Siebert",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Maleh",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Coulibaly L.",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "8",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Pierotti",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gorter",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Gandelman",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ngom",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Geubbels",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "N'Dri",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Stulic",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Milan": [
+      {
+        "name": "Maignan",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Gabbia",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pavlovic",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Estupinan",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "De Winter",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "7",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gila",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bartesaghi",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rabiot",
+        "role": "c",
+        "voto": "7.5",
+        "fantavoto": "11.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Modric",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Loftus-Cheek",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Chukwueze",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "8",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Saelemaekers",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Musah",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cissè A.",
+        "role": "c",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Jashari",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ramos G.",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      }
+    ],
+    "Monza": [
+      {
+        "name": "Pizzignacco",
+        "role": "p",
+        "voto": "5",
+        "fantavoto": "1",
+        "bonus_malus": [
+          {
+            "Gol subiti": "4"
+          }
+        ]
+      },
+      {
+        "name": "Delli Carri",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Carboni A.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Birindelli",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lucchesi",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kouadio",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bakoune",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mangas",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Galazzi",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Colpani",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Forson O.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Foe Ondoa",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mout",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "7",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Cutrone",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Varela G.",
+        "role": "a",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Robinson J.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Napoli": [
+      {
+        "name": "Meret",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Spinazzola",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Di Lorenzo",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rrahmani",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Olivera",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Marin R.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Politano",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "De Bruyne",
+        "role": "c",
+        "voto": "7.5",
+        "fantavoto": "11.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Assist": "1"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Zambo Anguissa",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lobotka",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "McTominay",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Vergara",
+        "role": "c",
+        "voto": "7.5",
+        "fantavoto": "11.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          },
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Hojlund",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lucca",
+        "role": "a",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lang",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Santos A.",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      }
+    ],
+    "Parma": [
+      {
+        "name": "Corvi",
+        "role": "p",
+        "voto": "5.5",
+        "fantavoto": "4.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Valeri",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Delprato",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ndiaye",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Troilo",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Almqvist",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bernabè",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kouda",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Keita M.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ordonez C.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cremaschi",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Diallo O.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Konate A.",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Tourè E.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Elphege",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lontani",
+        "role": "a",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      }
+    ],
+    "Roma": [
+      {
+        "name": "Svilar",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mancini",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "N'Dicka",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Hermoso",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Wesley",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Koulierakis",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Lulli",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cristante",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Konè M.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pisilli",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "9.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "El Aynaoui",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Mora",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dybala",
+        "role": "a",
+        "voto": "8",
+        "fantavoto": "1.1",
+        "bonus_malus": [
+          {
+            "Assist": "3"
+          }
+        ]
+      },
+      {
+        "name": "Malen",
+        "role": "a",
+        "voto": "8.5",
+        "fantavoto": "17.5",
+        "bonus_malus": [
+          {
+            "Gol segnati": "3"
+          },
+          {
+            "Player of the match": "1"
+          }
+        ]
+      },
+      {
+        "name": "Soulè",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Castro S.",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      }
+    ],
+    "Sassuolo": [
+      {
+        "name": "Muric",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "4",
+        "bonus_malus": [
+          {
+            "Gol subiti": "2"
+          }
+        ]
+      },
+      {
+        "name": "Doig",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Odenthal",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Macchioni",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Leysen F.",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cinquegrano",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Matic",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ciervo",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Volpato",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Thorstvedt",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Adzic",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dominguez B.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bakola",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Laurientè",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bowie",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kulla",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Torino": [
+      {
+        "name": "Mascardi",
+        "role": "p",
+        "voto": "6",
+        "fantavoto": "4",
+        "bonus_malus": [
+          {
+            "Gol subiti": "2"
+          }
+        ]
+      },
+      {
+        "name": "Ismajli",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Pedersen",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Comuzzo",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Coco",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Fortini",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Vlasic",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Casadei",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gineitis",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "6.5",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Njie",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Cacciamani",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Aboukhlal",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Fitz-Jim",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Simeone",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Adams C.",
+        "role": "a",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Kulenovic",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Udinese": [
+      {
+        "name": "Okoye",
+        "role": "p",
+        "voto": "6.5",
+        "fantavoto": "5.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "1"
+          }
+        ]
+      },
+      {
+        "name": "Vojvoda",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Kamara H.",
+        "role": "d",
+        "voto": "7",
+        "fantavoto": "1.0",
+        "bonus_malus": [
+          {
+            "Gol segnati": "1"
+          }
+        ]
+      },
+      {
+        "name": "Ebosse",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Abankwah",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Palma",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Solet",
+        "role": "d",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zaniolo",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Zarraga",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Karlstrom",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Ekkelenkamp",
+        "role": "c",
+        "voto": "6.5",
+        "fantavoto": "7.5",
+        "bonus_malus": [
+          {
+            "Assist": "1"
+          }
+        ]
+      },
+      {
+        "name": "Unai Gomez",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Piotrowski",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Miller L.",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bayo V.",
+        "role": "a",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Gueye",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ],
+    "Venezia": [
+      {
+        "name": "Stankovic F.",
+        "role": "p",
+        "voto": "5.5",
+        "fantavoto": "3.5",
+        "bonus_malus": [
+          {
+            "Gol subiti": "2"
+          }
+        ]
+      },
+      {
+        "name": "Correia T.",
+        "role": "d",
+        "voto": "6.5",
+        "fantavoto": "6.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Haps",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Sagrado",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Hainaut",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Schingtienne",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Bella-Kotchap",
+        "role": "d",
+        "voto": "5",
+        "fantavoto": "5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Franjic",
+        "role": "d",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Busio",
+        "role": "c",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Basic",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Perez K.",
+        "role": "c",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Dagasso",
+        "role": "c",
+        "voto": "5",
+        "fantavoto": "4.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Yeboah J.",
+        "role": "a",
+        "voto": "6",
+        "fantavoto": "6",
+        "bonus_malus": []
+      },
+      {
+        "name": "Rrahmani Al.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      },
+      {
+        "name": "Adams A.",
+        "role": "a",
+        "voto": "5.5",
+        "fantavoto": "5.5",
+        "bonus_malus": []
+      }
+    ]
+  }
+}

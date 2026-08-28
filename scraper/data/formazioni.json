@@ -1,0 +1,375 @@
+{
+  "last_update": "2026-08-28T16:36:16.111382",
+  "data": [
+    {
+      "match_id": "17971",
+      "home_team": {
+        "name": "Milan",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Ramos G.",
+          "Cissè A.",
+          "Loftus-Cheek",
+          "Estupinan",
+          "Musah",
+          "Jashari",
+          "Chukwueze",
+          "Pavlovic",
+          "De Winter",
+          "Gila",
+          "Maignan"
+        ]
+      },
+      "away_team": {
+        "name": "Venezia",
+        "formation": "3-5-2",
+        "titolari": [
+          "Adams A.",
+          "Yeboah J.",
+          "Hainaut",
+          "Basic",
+          "Busio",
+          "Perez K.",
+          "Correia T.",
+          "Franjic",
+          "Bella-Kotchap",
+          "Schingtienne",
+          "Stankovic F."
+        ]
+      }
+    },
+    {
+      "match_id": "17967",
+      "home_team": {
+        "name": "Fiorentina",
+        "formation": "4-3-2-1",
+        "titolari": [
+          "Pellegrino M.",
+          "Atta",
+          "Mastantuono",
+          "Brescianini",
+          "Oulai",
+          "Ndour",
+          "Valdepenas",
+          "Ranieri L.",
+          "Dragusin",
+          "Joao Mario",
+          "De Gea"
+        ]
+      },
+      "away_team": {
+        "name": "Frosinone",
+        "formation": "4-2-3-1",
+        "titolari": [
+          "Raimondo",
+          "Kvernadze",
+          "Schmid",
+          "Fini",
+          "Calò",
+          "Cichella",
+          "Bracaglia",
+          "Cittadini",
+          "Calvani",
+          "Monterisi",
+          "Palmisani"
+        ]
+      }
+    },
+    {
+      "match_id": "17972",
+      "home_team": {
+        "name": "Monza",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Varela G.",
+          "Mota",
+          "Colpani",
+          "Mangas",
+          "Foe Ondoa",
+          "Mout",
+          "Birindelli",
+          "Carboni A.",
+          "Lucchesi",
+          "Kouadio",
+          "Thiam"
+        ]
+      },
+      "away_team": {
+        "name": "Udinese",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Davis K.",
+          "Unai Gomez",
+          "Ekkelenkamp",
+          "Kamara H.",
+          "Karlstrom",
+          "Piotrowski",
+          "Vojvoda",
+          "Ebosse",
+          "Solet",
+          "Abankwah",
+          "Okoye"
+        ]
+      }
+    },
+    {
+      "match_id": "17974",
+      "home_team": {
+        "name": "Sassuolo",
+        "formation": "4-3-3",
+        "titolari": [
+          "Laurientè",
+          "Bowie",
+          "Volpato",
+          "Bakola",
+          "Matic",
+          "Adzic",
+          "Doig",
+          "Idzes",
+          "Odenthal",
+          "Cinquegrano",
+          "Muric"
+        ]
+      },
+      "away_team": {
+        "name": "Torino",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Simeone",
+          "Vlasic",
+          "Adams C.",
+          "Cacciamani",
+          "Fitz-Jim",
+          "Gineitis",
+          "Fortini",
+          "Comert",
+          "Coco",
+          "Comuzzo",
+          "Mascardi"
+        ]
+      }
+    },
+    {
+      "match_id": "17968",
+      "home_team": {
+        "name": "Juventus",
+        "formation": "4-2-3-1",
+        "titolari": [
+          "Kolo Muani",
+          "Boga",
+          "Koopmeiners",
+          "Conceicao",
+          "Locatelli",
+          "Douglas Luiz",
+          "Cambiaso",
+          "Kelly L.",
+          "Bremer",
+          "Kalulu",
+          "Vicario"
+        ]
+      },
+      "away_team": {
+        "name": "Parma",
+        "formation": "4-3-1-2",
+        "titolari": [
+          "Lontani",
+          "Tourè E.",
+          "Almqvist",
+          "Ordonez C.",
+          "Keita M.",
+          "Bernabè",
+          "Valeri",
+          "Ndiaye",
+          "Troilo",
+          "Delprato",
+          "Corvi"
+        ]
+      }
+    },
+    {
+      "match_id": "17973",
+      "home_team": {
+        "name": "Napoli",
+        "formation": "4-3-3",
+        "titolari": [
+          "Santos A.",
+          "Hojlund",
+          "Politano",
+          "McTominay",
+          "Lobotka",
+          "Zambo Anguissa",
+          "Spinazzola",
+          "Marin R.",
+          "Rrahmani",
+          "Di Lorenzo",
+          "Meret"
+        ]
+      },
+      "away_team": {
+        "name": "Como",
+        "formation": "4-2-3-1",
+        "titolari": [
+          "Douvikas",
+          "Baturina",
+          "Paz N.",
+          "Diao",
+          "Da Cunha",
+          "Perrone",
+          "Valle",
+          "Ramon",
+          "Chalobah T.",
+          "Couto",
+          "Butez"
+        ]
+      }
+    },
+    {
+      "match_id": "17966",
+      "home_team": {
+        "name": "Cagliari",
+        "formation": "4-3-2-1",
+        "titolari": [
+          "Mendy P.",
+          "Fazzini",
+          "Maldini",
+          "Romano",
+          "Winks",
+          "Adopo",
+          "Obert",
+          "Rodriguez Ju.",
+          "Mina",
+          "Zè Pedro",
+          "Caprile"
+        ]
+      },
+      "away_team": {
+        "name": "Inter",
+        "formation": "3-5-2",
+        "titolari": [
+          "Esposito F.P.",
+          "Martinez L.",
+          "Dimarco",
+          "Zielinski",
+          "Calhanoglu",
+          "Barella",
+          "Diouf",
+          "Bastoni",
+          "Akanji",
+          "Bisseck",
+          "Martinez Jo."
+        ]
+      }
+    },
+    {
+      "match_id": "17969",
+      "home_team": {
+        "name": "Lazio",
+        "formation": "4-3-3",
+        "titolari": [
+          "Zaccagni",
+          "Dia",
+          "Isaksen",
+          "Taylor K.",
+          "Rovella",
+          "Frattesi",
+          "Pedraza",
+          "Provstgaard",
+          "Doekhi",
+          "Floriani Mussolini",
+          "Mandas"
+        ]
+      },
+      "away_team": {
+        "name": "Genoa",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Colombo",
+          "Vitinha O.",
+          "Baldanzi",
+          "Ellertsson",
+          "Sow",
+          "Frendrup",
+          "Norton-Cuffy",
+          "Vasquez",
+          "Ostigard",
+          "Marcandalli",
+          "Bijlow"
+        ]
+      }
+    },
+    {
+      "match_id": "17970",
+      "home_team": {
+        "name": "Lecce",
+        "formation": "4-3-3",
+        "titolari": [
+          "N'Dri",
+          "Geubbels",
+          "Pierotti",
+          "Gorter",
+          "Ngom",
+          "Coulibaly L.",
+          "Gallo",
+          "Tiago Gabriel",
+          "Gaspar K.",
+          "Veiga D.",
+          "Falcone"
+        ]
+      },
+      "away_team": {
+        "name": "Roma",
+        "formation": "3-4-2-1",
+        "titolari": [
+          "Malen",
+          "Mora",
+          "Dybala",
+          "Wesley",
+          "Cristante",
+          "Konè M.",
+          "Molina N.",
+          "Hermoso",
+          "N'Dicka",
+          "Mancini",
+          "Svilar"
+        ]
+      }
+    },
+    {
+      "match_id": "17965",
+      "home_team": {
+        "name": "Atalanta",
+        "formation": "4-3-3",
+        "titolari": [
+          "Raspadori",
+          "Scamacca",
+          "De Ketelaere",
+          "Ederson D.S.",
+          "Gaetano",
+          "Samardzic",
+          "Bernasconi",
+          "Scalvini",
+          "Kossounou",
+          "Zappacosta",
+          "Carnesecchi"
+        ]
+      },
+      "away_team": {
+        "name": "Bologna",
+        "formation": "4-3-3",
+        "titolari": [
+          "Rowe",
+          "Piccoli",
+          "Orsolini",
+          "Odgaard",
+          "Ferguson",
+          "Amondarain",
+          "Miranda J.",
+          "Heggem",
+          "Helland",
+          "Zortea",
+          "Skorupski"
+        ]
+      }
+    }
+  ]
+}

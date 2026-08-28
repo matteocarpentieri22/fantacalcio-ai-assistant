@@ -1,0 +1,89 @@
+{
+  "last_update": "2026-08-28T16:37:08.720084",
+  "data": {
+    "Atalanta": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Bologna": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Cagliari": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Como": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Fiorentina": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Frosinone": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Genoa": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Inter": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Juventus": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Lazio": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Lecce": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Milan": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Monza": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Napoli": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Parma": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Roma": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Sassuolo": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Torino": {
+      "squalificati": [],
+      "diffidati": []
+    },
+    "Udinese": {
+      "squalificati": [
+        {
+          "name": "Kabasele"
+        }
+      ],
+      "diffidati": []
+    },
+    "Venezia": {
+      "squalificati": [],
+      "diffidati": []
+    }
+  }
+}

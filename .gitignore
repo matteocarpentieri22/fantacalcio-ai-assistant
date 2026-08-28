@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+asta_salvataggio.json
+.venv/
+env/

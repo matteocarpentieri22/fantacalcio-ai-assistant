@@ -1,0 +1,345 @@
+{
+  "last_update": "2026-08-28T16:37:13.067898",
+  "data": [
+    {
+      "posizione": 1,
+      "squadra": "Roma",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 0,
+      "differenza_reti": 4
+    },
+    {
+      "posizione": 1,
+      "squadra": "Roma",
+      "punti": 3
+    },
+    {
+      "posizione": 2,
+      "squadra": "Inter",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 1,
+      "differenza_reti": 3
+    },
+    {
+      "posizione": 2,
+      "squadra": "Inter",
+      "punti": 3
+    },
+    {
+      "posizione": 3,
+      "squadra": "Lecce",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 0,
+      "differenza_reti": 2
+    },
+    {
+      "posizione": 3,
+      "squadra": "Lecce",
+      "punti": 3
+    },
+    {
+      "posizione": 4,
+      "squadra": "Napoli",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 0,
+      "differenza_reti": 2
+    },
+    {
+      "posizione": 4,
+      "squadra": "Napoli",
+      "punti": 3
+    },
+    {
+      "posizione": 5,
+      "squadra": "Atalanta",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 1,
+      "differenza_reti": 1
+    },
+    {
+      "posizione": 5,
+      "squadra": "Atalanta",
+      "punti": 3
+    },
+    {
+      "posizione": 6,
+      "squadra": "Milan",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 1,
+      "differenza_reti": 1
+    },
+    {
+      "posizione": 6,
+      "squadra": "Milan",
+      "punti": 3
+    },
+    {
+      "posizione": 7,
+      "squadra": "Cagliari",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "differenza_reti": 1
+    },
+    {
+      "posizione": 7,
+      "squadra": "Cagliari",
+      "punti": 3
+    },
+    {
+      "posizione": 8,
+      "squadra": "Juventus",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "differenza_reti": 1
+    },
+    {
+      "posizione": 8,
+      "squadra": "Juventus",
+      "punti": 3
+    },
+    {
+      "posizione": 9,
+      "squadra": "Lazio",
+      "punti": 3,
+      "giocate": 1,
+      "vinte": 1,
+      "pareggiate": 0,
+      "perse": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "differenza_reti": 1
+    },
+    {
+      "posizione": 9,
+      "squadra": "Lazio",
+      "punti": 3
+    },
+    {
+      "posizione": 10,
+      "squadra": "Como",
+      "punti": 1,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 1,
+      "perse": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 1,
+      "differenza_reti": 0
+    },
+    {
+      "posizione": 10,
+      "squadra": "Como",
+      "punti": 1
+    },
+    {
+      "posizione": 11,
+      "squadra": "Udinese",
+      "punti": 1,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 1,
+      "perse": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 1,
+      "differenza_reti": 0
+    },
+    {
+      "posizione": 11,
+      "squadra": "Udinese",
+      "punti": 1
+    },
+    {
+      "posizione": 12,
+      "squadra": "Sassuolo",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 1,
+      "gol_subiti": 2,
+      "differenza_reti": -1
+    },
+    {
+      "posizione": 12,
+      "squadra": "Sassuolo",
+      "punti": 0
+    },
+    {
+      "posizione": 13,
+      "squadra": "Torino",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 1,
+      "gol_subiti": 2,
+      "differenza_reti": -1
+    },
+    {
+      "posizione": 13,
+      "squadra": "Torino",
+      "punti": 0
+    },
+    {
+      "posizione": 14,
+      "squadra": "Bologna",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 1,
+      "differenza_reti": -1
+    },
+    {
+      "posizione": 14,
+      "squadra": "Bologna",
+      "punti": 0
+    },
+    {
+      "posizione": 15,
+      "squadra": "Frosinone",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 1,
+      "differenza_reti": -1
+    },
+    {
+      "posizione": 15,
+      "squadra": "Frosinone",
+      "punti": 0
+    },
+    {
+      "posizione": 16,
+      "squadra": "Parma",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 1,
+      "differenza_reti": -1
+    },
+    {
+      "posizione": 16,
+      "squadra": "Parma",
+      "punti": 0
+    },
+    {
+      "posizione": 17,
+      "squadra": "Genoa",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 2,
+      "differenza_reti": -2
+    },
+    {
+      "posizione": 17,
+      "squadra": "Genoa",
+      "punti": 0
+    },
+    {
+      "posizione": 18,
+      "squadra": "Venezia",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 2,
+      "differenza_reti": -2
+    },
+    {
+      "posizione": 18,
+      "squadra": "Venezia",
+      "punti": 0
+    },
+    {
+      "posizione": 19,
+      "squadra": "Monza",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 1,
+      "gol_subiti": 4,
+      "differenza_reti": -3
+    },
+    {
+      "posizione": 19,
+      "squadra": "Monza",
+      "punti": 0
+    },
+    {
+      "posizione": 20,
+      "squadra": "Fiorentina",
+      "punti": 0,
+      "giocate": 1,
+      "vinte": 0,
+      "pareggiate": 0,
+      "perse": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 4,
+      "differenza_reti": -4
+    },
+    {
+      "posizione": 20,
+      "squadra": "Fiorentina",
+      "punti": 0
+    }
+  ]
+}

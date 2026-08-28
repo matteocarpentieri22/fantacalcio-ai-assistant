@@ -1,0 +1,145 @@
+{
+  "last_update": "2026-08-28T16:38:39.795931",
+  "data": {
+    "Atalanta": {
+      "Rigori": [
+        "Scamacca",
+        "Krstovic",
+        "Samardzic"
+      ]
+    },
+    "Bologna": {
+      "Rigori": [
+        "Orsolini",
+        "Bernardeschi",
+        "Dovbyk"
+      ]
+    },
+    "Cagliari": {
+      "Rigori": [
+        "Kevin Carlos",
+        "Maldini",
+        "Mina"
+      ]
+    },
+    "Como": {
+      "Rigori": [
+        "Da Cunha",
+        "Douvikas",
+        "Paz N."
+      ]
+    },
+    "Fiorentina": {
+      "Rigori": [
+        "Gudmundsson A.",
+        "Mandragora"
+      ]
+    },
+    "Frosinone": {
+      "Rigori": [
+        "Calò",
+        "Schmid",
+        "Grillitsch"
+      ]
+    },
+    "Genoa": {
+      "Rigori": [
+        "Colombo",
+        "Ostigard",
+        "Vitinha O."
+      ]
+    },
+    "Inter": {
+      "Rigori": [
+        "Calhanoglu",
+        "Zielinski",
+        "Martinez L."
+      ]
+    },
+    "Juventus": {
+      "Rigori": [
+        "Kolo Muani",
+        "Yildiz",
+        "Locatelli"
+      ]
+    },
+    "Lazio": {
+      "Rigori": [
+        "Zaccagni",
+        "Taylor K.",
+        "Cataldi"
+      ]
+    },
+    "Lecce": {
+      "Rigori": [
+        "Geubbels",
+        "Stulic",
+        "Berisha M."
+      ]
+    },
+    "Milan": {
+      "Rigori": [
+        "Ramos G.",
+        "Pulisic",
+        "Modric"
+      ]
+    },
+    "Monza": {
+      "Rigori": [
+        "Pessina",
+        "Cutrone",
+        "Petagna"
+      ]
+    },
+    "Napoli": {
+      "Rigori": [
+        "De Bruyne",
+        "Hojlund",
+        "Politano"
+      ]
+    },
+    "Parma": {
+      "Rigori": [
+        "Pellegrino M.",
+        "Tourè E.",
+        "Valeri",
+        "Bernabè"
+      ]
+    },
+    "Roma": {
+      "Rigori": [
+        "Malen",
+        "Dybala",
+        "Castro S."
+      ]
+    },
+    "Sassuolo": {
+      "Rigori": [
+        "Berardi",
+        "Pinamonti",
+        "Laurientè"
+      ]
+    },
+    "Torino": {
+      "Rigori": [
+        "Vlasic",
+        "Kulenovic",
+        "Simeone"
+      ]
+    },
+    "Udinese": {
+      "Rigori": [
+        "Davis K.",
+        "Solet",
+        "Zaniolo"
+      ]
+    },
+    "Venezia": {
+      "Rigori": [
+        "Busio",
+        "Adams A.",
+        "Adorante"
+      ]
+    }
+  }
+}

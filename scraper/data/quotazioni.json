@@ -1,0 +1,4405 @@
+{
+  "last_update": "2026-08-28T16:36:33.351343",
+  "data": [
+    {
+      "name": "Malen",
+      "role": "a",
+      "team": "ROM",
+      "quotazione_iniziale": "34",
+      "quotazione_attuale": "36",
+      "fvm": "414"
+    },
+    {
+      "name": "Martinez L.",
+      "role": "a",
+      "team": "INT",
+      "quotazione_iniziale": "35",
+      "quotazione_attuale": "34",
+      "fvm": "367"
+    },
+    {
+      "name": "Dimarco",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "32",
+      "quotazione_attuale": "31",
+      "fvm": "253"
+    },
+    {
+      "name": "Paz N.",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "30",
+      "quotazione_attuale": "29",
+      "fvm": "247"
+    },
+    {
+      "name": "Calhanoglu",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "27",
+      "quotazione_attuale": "28",
+      "fvm": "236"
+    },
+    {
+      "name": "Thuram",
+      "role": "a",
+      "team": "INT",
+      "quotazione_iniziale": "29",
+      "quotazione_attuale": "28",
+      "fvm": "263"
+    },
+    {
+      "name": "McTominay",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "28",
+      "quotazione_attuale": "28",
+      "fvm": "228"
+    },
+    {
+      "name": "Ramos G.",
+      "role": "a",
+      "team": "MIL",
+      "quotazione_iniziale": "27",
+      "quotazione_attuale": "27",
+      "fvm": "228"
+    },
+    {
+      "name": "Hojlund",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "28",
+      "quotazione_attuale": "27",
+      "fvm": "257"
+    },
+    {
+      "name": "Orsolini",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "26",
+      "quotazione_attuale": "25",
+      "fvm": "192"
+    },
+    {
+      "name": "Kean",
+      "role": "a",
+      "team": "FIO",
+      "quotazione_iniziale": "25",
+      "quotazione_attuale": "25",
+      "fvm": "187"
+    },
+    {
+      "name": "Kolo Muani",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "26",
+      "quotazione_attuale": "25",
+      "fvm": "211"
+    },
+    {
+      "name": "Pulisic",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "25",
+      "quotazione_attuale": "24",
+      "fvm": "160"
+    },
+    {
+      "name": "Rabiot",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "22",
+      "quotazione_attuale": "23",
+      "fvm": "145"
+    },
+    {
+      "name": "Yildiz",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "23",
+      "quotazione_attuale": "22",
+      "fvm": "150"
+    },
+    {
+      "name": "Douvikas",
+      "role": "a",
+      "team": "COM",
+      "quotazione_iniziale": "20",
+      "quotazione_attuale": "21",
+      "fvm": "170"
+    },
+    {
+      "name": "Krstovic",
+      "role": "a",
+      "team": "ATA",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "19",
+      "fvm": "100"
+    },
+    {
+      "name": "Scamacca",
+      "role": "a",
+      "team": "ATA",
+      "quotazione_iniziale": "19",
+      "quotazione_attuale": "19",
+      "fvm": "123"
+    },
+    {
+      "name": "Baturina",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "19",
+      "quotazione_attuale": "19",
+      "fvm": "97"
+    },
+    {
+      "name": "Davis K.",
+      "role": "a",
+      "team": "UDI",
+      "quotazione_iniziale": "19",
+      "quotazione_attuale": "19",
+      "fvm": "109"
+    },
+    {
+      "name": "Mora",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "19",
+      "quotazione_attuale": "19",
+      "fvm": "95"
+    },
+    {
+      "name": "Da Cunha",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "87"
+    },
+    {
+      "name": "Leao",
+      "role": "a",
+      "team": "MIL",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "75"
+    },
+    {
+      "name": "Svilar",
+      "role": "p",
+      "team": "ROM",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "75"
+    },
+    {
+      "name": "Berardi",
+      "role": "a",
+      "team": "SAS",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "101"
+    },
+    {
+      "name": "Zaniolo",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "85"
+    },
+    {
+      "name": "Molina N.",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "18",
+      "quotazione_attuale": "18",
+      "fvm": "80"
+    },
+    {
+      "name": "De Ketelaere",
+      "role": "a",
+      "team": "ATA",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "17",
+      "fvm": "98"
+    },
+    {
+      "name": "Martinez Jo.",
+      "role": "p",
+      "team": "INT",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "17",
+      "fvm": "63"
+    },
+    {
+      "name": "Barella",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "17",
+      "fvm": "80"
+    },
+    {
+      "name": "Esposito F.P.",
+      "role": "a",
+      "team": "INT",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "17",
+      "fvm": "105"
+    },
+    {
+      "name": "McKennie",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "17",
+      "fvm": "70"
+    },
+    {
+      "name": "Wesley",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "17",
+      "fvm": "82"
+    },
+    {
+      "name": "Carnesecchi",
+      "role": "p",
+      "team": "ATA",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "16",
+      "fvm": "52"
+    },
+    {
+      "name": "Butez",
+      "role": "p",
+      "team": "COM",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "16",
+      "fvm": "54"
+    },
+    {
+      "name": "Atta",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "17",
+      "quotazione_attuale": "16",
+      "fvm": "86"
+    },
+    {
+      "name": "Akanji",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "16",
+      "fvm": "51"
+    },
+    {
+      "name": "Bremer",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "16",
+      "fvm": "60"
+    },
+    {
+      "name": "Zaccagni",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "16",
+      "fvm": "88"
+    },
+    {
+      "name": "De Bruyne",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "16",
+      "fvm": "107"
+    },
+    {
+      "name": "Vicario",
+      "role": "p",
+      "team": "JUV",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "16",
+      "fvm": "58"
+    },
+    {
+      "name": "Dovbyk",
+      "role": "a",
+      "team": "BOL",
+      "quotazione_iniziale": "16",
+      "quotazione_attuale": "15",
+      "fvm": "58"
+    },
+    {
+      "name": "Maignan",
+      "role": "p",
+      "team": "MIL",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "15",
+      "fvm": "50"
+    },
+    {
+      "name": "Mancini",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "15",
+      "fvm": "49"
+    },
+    {
+      "name": "Dybala",
+      "role": "a",
+      "team": "ROM",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "15",
+      "fvm": "95"
+    },
+    {
+      "name": "Laurientè",
+      "role": "a",
+      "team": "SAS",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "15",
+      "fvm": "86"
+    },
+    {
+      "name": "Simeone",
+      "role": "a",
+      "team": "TOR",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "15",
+      "fvm": "80"
+    },
+    {
+      "name": "Raspadori",
+      "role": "a",
+      "team": "ATA",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "14",
+      "fvm": "76"
+    },
+    {
+      "name": "Bastoni",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "14",
+      "fvm": "43"
+    },
+    {
+      "name": "Pavlovic",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "14",
+      "fvm": "48"
+    },
+    {
+      "name": "Rrahmani",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "14",
+      "fvm": "51"
+    },
+    {
+      "name": "Santos A.",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "14",
+      "fvm": "62"
+    },
+    {
+      "name": "Pellegrino M.",
+      "role": "a",
+      "team": "FIO",
+      "quotazione_iniziale": "15",
+      "quotazione_attuale": "14",
+      "fvm": "50"
+    },
+    {
+      "name": "Castro S.",
+      "role": "a",
+      "team": "ROM",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "14",
+      "fvm": "76"
+    },
+    {
+      "name": "Esposito Se.",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "40"
+    },
+    {
+      "name": "Gudmundsson A.",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "40"
+    },
+    {
+      "name": "Kalulu",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "46"
+    },
+    {
+      "name": "Taylor K.",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "57"
+    },
+    {
+      "name": "Nkunku",
+      "role": "a",
+      "team": "MIL",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "20"
+    },
+    {
+      "name": "N'Dicka",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "44"
+    },
+    {
+      "name": "Pinamonti",
+      "role": "a",
+      "team": "LAZ",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "51"
+    },
+    {
+      "name": "Vlasic",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "14",
+      "quotazione_attuale": "13",
+      "fvm": "75"
+    },
+    {
+      "name": "Solet",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "46"
+    },
+    {
+      "name": "Kevin Carlos",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "13",
+      "fvm": "37"
+    },
+    {
+      "name": "Ederson D.S.",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "49"
+    },
+    {
+      "name": "Samardzic",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "41"
+    },
+    {
+      "name": "Rodriguez Je.",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "31"
+    },
+    {
+      "name": "De Gea",
+      "role": "p",
+      "team": "FIO",
+      "quotazione_iniziale": "13",
+      "quotazione_attuale": "12",
+      "fvm": "40"
+    },
+    {
+      "name": "Bisseck",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "12",
+      "fvm": "37"
+    },
+    {
+      "name": "Stones",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "30"
+    },
+    {
+      "name": "Alajbegovic",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "50"
+    },
+    {
+      "name": "Conceicao",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "67"
+    },
+    {
+      "name": "Gila",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "31"
+    },
+    {
+      "name": "Modric",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "46"
+    },
+    {
+      "name": "Di Lorenzo",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "40"
+    },
+    {
+      "name": "Soulè",
+      "role": "a",
+      "team": "ROM",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "45"
+    },
+    {
+      "name": "Adams A.",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "45"
+    },
+    {
+      "name": "Mastantuono",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "54"
+    },
+    {
+      "name": "Spence",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "40"
+    },
+    {
+      "name": "Moreira",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "50"
+    },
+    {
+      "name": "Jones C.",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "12",
+      "quotazione_attuale": "12",
+      "fvm": "48"
+    },
+    {
+      "name": "Rowe",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "44"
+    },
+    {
+      "name": "Diao",
+      "role": "a",
+      "team": "COM",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "47"
+    },
+    {
+      "name": "Ostigard",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "43"
+    },
+    {
+      "name": "Baldanzi",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "30"
+    },
+    {
+      "name": "Colombo",
+      "role": "a",
+      "team": "GEN",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "55"
+    },
+    {
+      "name": "Zielinski",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "11",
+      "fvm": "45"
+    },
+    {
+      "name": "Meret",
+      "role": "p",
+      "team": "NAP",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "53"
+    },
+    {
+      "name": "Zambo Anguissa",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "47"
+    },
+    {
+      "name": "Ekkelenkamp",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "11",
+      "fvm": "45"
+    },
+    {
+      "name": "Tourè E.",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "11",
+      "quotazione_attuale": "11",
+      "fvm": "43"
+    },
+    {
+      "name": "Scalvini",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "28"
+    },
+    {
+      "name": "Skorupski",
+      "role": "p",
+      "team": "BOL",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "36"
+    },
+    {
+      "name": "Caprile",
+      "role": "p",
+      "team": "CAG",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "10",
+      "fvm": "28"
+    },
+    {
+      "name": "Ramon",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "32"
+    },
+    {
+      "name": "Perrone",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "37"
+    },
+    {
+      "name": "Dodò",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "20"
+    },
+    {
+      "name": "Thuram K.",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "35"
+    },
+    {
+      "name": "Mandas",
+      "role": "p",
+      "team": "LAZ",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "10",
+      "fvm": "32"
+    },
+    {
+      "name": "Dia",
+      "role": "a",
+      "team": "LAZ",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "30"
+    },
+    {
+      "name": "Ratkov",
+      "role": "a",
+      "team": "LAZ",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "26"
+    },
+    {
+      "name": "Saelemaekers",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "35"
+    },
+    {
+      "name": "Politano",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "40"
+    },
+    {
+      "name": "Vergara",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "10",
+      "fvm": "40"
+    },
+    {
+      "name": "Lukaku",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "45"
+    },
+    {
+      "name": "Hermoso",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "26"
+    },
+    {
+      "name": "Konè M.",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "42"
+    },
+    {
+      "name": "Thorstvedt",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "40"
+    },
+    {
+      "name": "Bowie",
+      "role": "a",
+      "team": "SAS",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "39"
+    },
+    {
+      "name": "Casadei",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "32"
+    },
+    {
+      "name": "Adams C.",
+      "role": "a",
+      "team": "TOR",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "10",
+      "fvm": "33"
+    },
+    {
+      "name": "Pellegrini Lo.",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "25"
+    },
+    {
+      "name": "Romero D.",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "10",
+      "quotazione_attuale": "10",
+      "fvm": "37"
+    },
+    {
+      "name": "Pasalic",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "24"
+    },
+    {
+      "name": "Bernardeschi",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "30"
+    },
+    {
+      "name": "Mandragora",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "23"
+    },
+    {
+      "name": "Ghedjemis",
+      "role": "a",
+      "team": "FRO",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "27"
+    },
+    {
+      "name": "Vasquez",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "32"
+    },
+    {
+      "name": "Diouf",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "9",
+      "fvm": "44"
+    },
+    {
+      "name": "Frattesi",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "9",
+      "fvm": "68"
+    },
+    {
+      "name": "Di Gregorio",
+      "role": "p",
+      "team": "JUV",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "10"
+    },
+    {
+      "name": "Cambiaso",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "25"
+    },
+    {
+      "name": "David",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "37"
+    },
+    {
+      "name": "Cancellieri",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "28"
+    },
+    {
+      "name": "Isaksen",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "22"
+    },
+    {
+      "name": "Falcone",
+      "role": "p",
+      "team": "LEC",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "9",
+      "fvm": "30"
+    },
+    {
+      "name": "Tiago Gabriel",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "9",
+      "fvm": "20"
+    },
+    {
+      "name": "Geubbels",
+      "role": "a",
+      "team": "LEC",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "23"
+    },
+    {
+      "name": "Cutrone",
+      "role": "a",
+      "team": "MON",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "33"
+    },
+    {
+      "name": "Konè I.",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "20"
+    },
+    {
+      "name": "Okoye",
+      "role": "p",
+      "team": "UDI",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "29"
+    },
+    {
+      "name": "Chalobah T.",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "9",
+      "quotazione_attuale": "9",
+      "fvm": "30"
+    },
+    {
+      "name": "Hien",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "11"
+    },
+    {
+      "name": "Zappacosta",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "19"
+    },
+    {
+      "name": "Gaetano",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "8",
+      "fvm": "30"
+    },
+    {
+      "name": "Lucumì",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "18"
+    },
+    {
+      "name": "Miranda J.",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "24"
+    },
+    {
+      "name": "Odgaard",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "17"
+    },
+    {
+      "name": "Cambiaghi",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "21"
+    },
+    {
+      "name": "Dallinga",
+      "role": "a",
+      "team": "BOL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "10"
+    },
+    {
+      "name": "Mina",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "20"
+    },
+    {
+      "name": "Jimenez A.",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "23"
+    },
+    {
+      "name": "Fagioli",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "22"
+    },
+    {
+      "name": "Ndour",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "25"
+    },
+    {
+      "name": "Piccoli",
+      "role": "a",
+      "team": "BOL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "37"
+    },
+    {
+      "name": "Bijlow",
+      "role": "p",
+      "team": "GEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "17"
+    },
+    {
+      "name": "Norton-Cuffy",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "21"
+    },
+    {
+      "name": "Vitinha O.",
+      "role": "a",
+      "team": "GEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "16"
+    },
+    {
+      "name": "Sucic P.",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "21"
+    },
+    {
+      "name": "Celik",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "15"
+    },
+    {
+      "name": "Locatelli",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "33"
+    },
+    {
+      "name": "Doekhi",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "8",
+      "fvm": "16"
+    },
+    {
+      "name": "Bartesaghi",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "22"
+    },
+    {
+      "name": "Colpani",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "25"
+    },
+    {
+      "name": "Gutierrez",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "26"
+    },
+    {
+      "name": "Spinazzola",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "25"
+    },
+    {
+      "name": "Lobotka",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "8",
+      "fvm": "22"
+    },
+    {
+      "name": "Delprato",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "21"
+    },
+    {
+      "name": "Valeri",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "24"
+    },
+    {
+      "name": "Koulierakis",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "17"
+    },
+    {
+      "name": "Cristante",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "29"
+    },
+    {
+      "name": "Volpato",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "8",
+      "fvm": "23"
+    },
+    {
+      "name": "Vojvoda",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "19"
+    },
+    {
+      "name": "Kamara H.",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "8",
+      "fvm": "12"
+    },
+    {
+      "name": "Yeboah J.",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "27"
+    },
+    {
+      "name": "Rrahmani Al.",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "18"
+    },
+    {
+      "name": "Couto",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "26"
+    },
+    {
+      "name": "Schmid",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "28"
+    },
+    {
+      "name": "Osmajic",
+      "role": "a",
+      "team": "GEN",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "8",
+      "fvm": "30"
+    },
+    {
+      "name": "Djimsiti",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "16"
+    },
+    {
+      "name": "Ferguson",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "23"
+    },
+    {
+      "name": "Obert",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "15"
+    },
+    {
+      "name": "Adopo",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "7",
+      "fvm": "13"
+    },
+    {
+      "name": "Romano",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "7",
+      "fvm": "20"
+    },
+    {
+      "name": "Fazzini",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "24"
+    },
+    {
+      "name": "Kaiki",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "16"
+    },
+    {
+      "name": "Dragusin",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "8",
+      "quotazione_attuale": "7",
+      "fvm": "27"
+    },
+    {
+      "name": "Calò",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "25"
+    },
+    {
+      "name": "Raimondo",
+      "role": "a",
+      "team": "FRO",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "22"
+    },
+    {
+      "name": "Frendrup",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "20"
+    },
+    {
+      "name": "Carlos Augusto",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "25"
+    },
+    {
+      "name": "Bonny",
+      "role": "a",
+      "team": "INT",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "18"
+    },
+    {
+      "name": "Romagnoli",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "22"
+    },
+    {
+      "name": "Rovella",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "7",
+      "fvm": "16"
+    },
+    {
+      "name": "Coulibaly L.",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "7",
+      "fvm": "17"
+    },
+    {
+      "name": "Stulic",
+      "role": "a",
+      "team": "LEC",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "12"
+    },
+    {
+      "name": "Gabbia",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "24"
+    },
+    {
+      "name": "Tomori",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "8"
+    },
+    {
+      "name": "Chukwueze",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "7",
+      "fvm": "22"
+    },
+    {
+      "name": "Pessina",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "15"
+    },
+    {
+      "name": "Buongiorno",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "15"
+    },
+    {
+      "name": "Daffara",
+      "role": "p",
+      "team": "PAR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "10"
+    },
+    {
+      "name": "Suzuki",
+      "role": "p",
+      "team": "PAR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "20"
+    },
+    {
+      "name": "Bernabè",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "35"
+    },
+    {
+      "name": "Pisilli",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "7",
+      "fvm": "17"
+    },
+    {
+      "name": "Muric",
+      "role": "p",
+      "team": "SAS",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "15"
+    },
+    {
+      "name": "Idzes",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "19"
+    },
+    {
+      "name": "Coco",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "14"
+    },
+    {
+      "name": "Ismajli",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "13"
+    },
+    {
+      "name": "Oristanio",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "12"
+    },
+    {
+      "name": "Zapata D.",
+      "role": "a",
+      "team": "TOR",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "18"
+    },
+    {
+      "name": "Kristensen T.",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "20"
+    },
+    {
+      "name": "Karlstrom",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "7",
+      "fvm": "20"
+    },
+    {
+      "name": "Unai Gomez",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "17"
+    },
+    {
+      "name": "Sow",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "15"
+    },
+    {
+      "name": "Elmas",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "28"
+    },
+    {
+      "name": "Badiashile",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "21"
+    },
+    {
+      "name": "Sutalo J.",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "7",
+      "quotazione_attuale": "7",
+      "fvm": "19"
+    },
+    {
+      "name": "Ahanor",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "14"
+    },
+    {
+      "name": "Bellanova",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "17"
+    },
+    {
+      "name": "Bernasconi",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "18"
+    },
+    {
+      "name": "Zalewski",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "20"
+    },
+    {
+      "name": "Sulemana K.",
+      "role": "a",
+      "team": "ATA",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "10"
+    },
+    {
+      "name": "Heggem",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Zortea",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "19"
+    },
+    {
+      "name": "Pobega",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "13"
+    },
+    {
+      "name": "Winks",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Mutandwa",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "10"
+    },
+    {
+      "name": "Valle",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "21"
+    },
+    {
+      "name": "Milla",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "6",
+      "fvm": "20"
+    },
+    {
+      "name": "Caqueret",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "17"
+    },
+    {
+      "name": "Liberali",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "21"
+    },
+    {
+      "name": "Valdepenas",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "18"
+    },
+    {
+      "name": "Viery",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "17"
+    },
+    {
+      "name": "Oulai",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "20"
+    },
+    {
+      "name": "Monterisi",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "13"
+    },
+    {
+      "name": "Marcandalli",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "14"
+    },
+    {
+      "name": "Ellertsson",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "18"
+    },
+    {
+      "name": "Pavard",
+      "role": "d",
+      "team": "INT",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "14"
+    },
+    {
+      "name": "Perin",
+      "role": "p",
+      "team": "JUV",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "5"
+    },
+    {
+      "name": "Zhegrova",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "20"
+    },
+    {
+      "name": "Boga",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "26"
+    },
+    {
+      "name": "Tavares N.",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Marusic",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "20"
+    },
+    {
+      "name": "Noslin",
+      "role": "a",
+      "team": "LAZ",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "17"
+    },
+    {
+      "name": "Gaspar K.",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Veiga D.",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Gallo",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "13"
+    },
+    {
+      "name": "Pierotti",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "19"
+    },
+    {
+      "name": "Gimenez",
+      "role": "a",
+      "team": "MIL",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "10"
+    },
+    {
+      "name": "Mangas",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Akinsanmiro",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "16"
+    },
+    {
+      "name": "Beukema",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Neres",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "17"
+    },
+    {
+      "name": "Circati",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "18"
+    },
+    {
+      "name": "Nicolussi Caviglia",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "16"
+    },
+    {
+      "name": "Matic",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Comuzzo",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "13"
+    },
+    {
+      "name": "Gineitis",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Stankovic F.",
+      "role": "p",
+      "team": "VEN",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "12"
+    },
+    {
+      "name": "Bella-Kotchap",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "13"
+    },
+    {
+      "name": "Basic",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "19"
+    },
+    {
+      "name": "Obrador",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Tourè I.",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "6",
+      "quotazione_attuale": "6",
+      "fvm": "15"
+    },
+    {
+      "name": "Kolasinac",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "8"
+    },
+    {
+      "name": "Maldini",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "21"
+    },
+    {
+      "name": "Vitik",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Holm",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Amondarain",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Kofler",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "8"
+    },
+    {
+      "name": "Zè Pedro",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Felici",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "8"
+    },
+    {
+      "name": "Kempf",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Addai",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Parisi",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Palmisani",
+      "role": "p",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Bracaglia",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Oyono A.",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Zerbin",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Martin",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "8"
+    },
+    {
+      "name": "Amorim",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "11"
+    },
+    {
+      "name": "Meichtry",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "11"
+    },
+    {
+      "name": "Traorè Hj.",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "11"
+    },
+    {
+      "name": "Mkhitaryan",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Kelly L.",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Koopmeiners",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Pedraza",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "15"
+    },
+    {
+      "name": "Dele-Bashiru",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Siebert",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Berisha M.",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Gandelman",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Fofana Y.",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Jashari",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Camarda",
+      "role": "a",
+      "team": "MIL",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "20"
+    },
+    {
+      "name": "Thiam",
+      "role": "p",
+      "team": "MON",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "11"
+    },
+    {
+      "name": "Mota",
+      "role": "a",
+      "team": "MON",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "18"
+    },
+    {
+      "name": "Varela G.",
+      "role": "a",
+      "team": "MON",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "5",
+      "fvm": "7"
+    },
+    {
+      "name": "Milinkovic-Savic V.",
+      "role": "p",
+      "team": "NAP",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "7"
+    },
+    {
+      "name": "Olivera",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Keita M.",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "15"
+    },
+    {
+      "name": "Ondrejka",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "18"
+    },
+    {
+      "name": "Frigan",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Rensch",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "14"
+    },
+    {
+      "name": "Adzic",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "16"
+    },
+    {
+      "name": "Bakola",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "14"
+    },
+    {
+      "name": "Pedersen",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Cacciamani",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "20"
+    },
+    {
+      "name": "Njie",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "14"
+    },
+    {
+      "name": "Piotrowski",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "15"
+    },
+    {
+      "name": "Moreno M.",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "6"
+    },
+    {
+      "name": "Correia T.",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Haps",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Busio",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "14"
+    },
+    {
+      "name": "Sohm",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "11"
+    },
+    {
+      "name": "Perez K.",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "15"
+    },
+    {
+      "name": "Adorante",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Grillitsch",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "10"
+    },
+    {
+      "name": "Milik",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "13"
+    },
+    {
+      "name": "Cissè A.",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "5",
+      "fvm": "25"
+    },
+    {
+      "name": "Fortini",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Leysen F.",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "12"
+    },
+    {
+      "name": "Birligea",
+      "role": "a",
+      "team": "FRO",
+      "quotazione_iniziale": "5",
+      "quotazione_attuale": "5",
+      "fvm": "14"
+    },
+    {
+      "name": "De Roon",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Moro N.",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "14"
+    },
+    {
+      "name": "Dominguez B.",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Rodriguez Ju.",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "14"
+    },
+    {
+      "name": "Zappa",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "7"
+    },
+    {
+      "name": "Deiola",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Prati",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "7"
+    },
+    {
+      "name": "Borrelli",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "9"
+    },
+    {
+      "name": "Mendy P.",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "14"
+    },
+    {
+      "name": "Smolcic I.",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Morata",
+      "role": "a",
+      "team": "COM",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "7"
+    },
+    {
+      "name": "Pongracic",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Fabbian",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Calvani",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Cichella",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Koutsoupias",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "11"
+    },
+    {
+      "name": "Fini",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "13"
+    },
+    {
+      "name": "Kvernadze",
+      "role": "a",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "16"
+    },
+    {
+      "name": "Mitaj",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Messias",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Havel",
+      "role": "a",
+      "team": "GEN",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "9"
+    },
+    {
+      "name": "Luis Henrique",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Gatti",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Douglas Luiz",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "15"
+    },
+    {
+      "name": "Cataldi",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Ngom",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "13"
+    },
+    {
+      "name": "De Winter",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Estupinan",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "13"
+    },
+    {
+      "name": "Ricci S.",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Loftus-Cheek",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "18"
+    },
+    {
+      "name": "Delli Carri",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "11"
+    },
+    {
+      "name": "Lucchesi",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Birindelli",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Folorunsho",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "5"
+    },
+    {
+      "name": "Giovane",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Lang",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Lucca",
+      "role": "a",
+      "team": "NAP",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Troilo",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "14"
+    },
+    {
+      "name": "Valenti",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Almqvist",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "11"
+    },
+    {
+      "name": "Diallo O.",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Ghilardi",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "El Aynaoui",
+      "role": "c",
+      "team": "ROM",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "18"
+    },
+    {
+      "name": "Walukiewicz",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Doig",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Comert",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Fitz-Jim",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "18"
+    },
+    {
+      "name": "Ilkhan",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Kulenovic",
+      "role": "a",
+      "team": "TOR",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "9"
+    },
+    {
+      "name": "Kabasele",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Bertola",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Zanoli",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Arizala",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Miller L.",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "4",
+      "fvm": "12"
+    },
+    {
+      "name": "Gueye",
+      "role": "a",
+      "team": "UDI",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "7"
+    },
+    {
+      "name": "Halhal",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Robinson J.",
+      "role": "a",
+      "team": "MON",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "10"
+    },
+    {
+      "name": "Terzic",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "8"
+    },
+    {
+      "name": "Favasuli",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "11"
+    },
+    {
+      "name": "Fatah",
+      "role": "a",
+      "team": "LEC",
+      "quotazione_iniziale": "4",
+      "quotazione_attuale": "4",
+      "fvm": "17"
+    },
+    {
+      "name": "Kossounou",
+      "role": "d",
+      "team": "ATA",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Sulemana I.",
+      "role": "c",
+      "team": "ATA",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Casale",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Helland",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Idrissi R.",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "3"
+    },
+    {
+      "name": "Kuhn",
+      "role": "a",
+      "team": "COM",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Ranieri L.",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Joao Mario",
+      "role": "d",
+      "team": "FIO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Brescianini",
+      "role": "c",
+      "team": "FIO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Akpoguma",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "6"
+    },
+    {
+      "name": "Cittadini",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Gelli F.",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Hasa",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Masini",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Stankovic A.",
+      "role": "c",
+      "team": "INT",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Miretti",
+      "role": "c",
+      "team": "JUV",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Ekhator",
+      "role": "a",
+      "team": "JUV",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Provstgaard",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "14"
+    },
+    {
+      "name": "Floriani Mussolini",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Gorter",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Maleh",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "N'Dri",
+      "role": "a",
+      "team": "LEC",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "15"
+    },
+    {
+      "name": "Athekame",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Musah",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "15"
+    },
+    {
+      "name": "Kouadio",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "9"
+    },
+    {
+      "name": "Carboni A.",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "9"
+    },
+    {
+      "name": "Colombo L.",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Gilmour",
+      "role": "c",
+      "team": "NAP",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Britschgi",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Ordonez C.",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Sorensen O.",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Elphege",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "11"
+    },
+    {
+      "name": "Angelino",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Candè",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Aboukhlal",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Palma",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "11"
+    },
+    {
+      "name": "Ebosse",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "3",
+      "fvm": "5"
+    },
+    {
+      "name": "Schingtienne",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "10"
+    },
+    {
+      "name": "Sverko",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "7"
+    },
+    {
+      "name": "Hainaut",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "12"
+    },
+    {
+      "name": "Helgason",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "3"
+    },
+    {
+      "name": "Odenthal",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Tchato",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Kambwala",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "3",
+      "quotazione_attuale": "3",
+      "fvm": "8"
+    },
+    {
+      "name": "Alhassane",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "6"
+    },
+    {
+      "name": "El Azzouzi O.",
+      "role": "c",
+      "team": "BOL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "10"
+    },
+    {
+      "name": "Van Der Brempt",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Fadera",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "12"
+    },
+    {
+      "name": "Desplanches",
+      "role": "p",
+      "team": "FRO",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "3"
+    },
+    {
+      "name": "Otoa",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Puczka",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "3"
+    },
+    {
+      "name": "Sabelli",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Venturino",
+      "role": "c",
+      "team": "GEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Provedel",
+      "role": "p",
+      "team": "INT",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Lazzari",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Pellegrini Lu.",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "7"
+    },
+    {
+      "name": "Jean",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Ndaba",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Diawara S.",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Bakoune",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Ciurria",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "6"
+    },
+    {
+      "name": "Petagna",
+      "role": "a",
+      "team": "MON",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Marin R.",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "8"
+    },
+    {
+      "name": "Ndiaye",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "8"
+    },
+    {
+      "name": "Boloca",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Lipani",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Biraghi",
+      "role": "d",
+      "team": "TOR",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Abankwah",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "10"
+    },
+    {
+      "name": "Chakvetadze",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "6"
+    },
+    {
+      "name": "Buksa",
+      "role": "a",
+      "team": "UDI",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Franjic",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "7"
+    },
+    {
+      "name": "Sagrado",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Duncan",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Aurelio",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "5"
+    },
+    {
+      "name": "Lontani",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "10"
+    },
+    {
+      "name": "Forson O.",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "1"
+    },
+    {
+      "name": "Cinquegrano",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Terracciano F.",
+      "role": "d",
+      "team": "MIL",
+      "quotazione_iniziale": "2",
+      "quotazione_attuale": "2",
+      "fvm": "4"
+    },
+    {
+      "name": "Rossi F.",
+      "role": "p",
+      "team": "ATA",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Sportiello",
+      "role": "p",
+      "team": "ATA",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Happonen",
+      "role": "p",
+      "team": "BOL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Pessina Mas.",
+      "role": "p",
+      "team": "BOL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "De Silvestri",
+      "role": "d",
+      "team": "BOL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "4"
+    },
+    {
+      "name": "Ciocci",
+      "role": "p",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Sherri",
+      "role": "p",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Raterink",
+      "role": "d",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Liteta",
+      "role": "c",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Albarracin",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Trepy",
+      "role": "a",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Tornqvist",
+      "role": "p",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Vigorito",
+      "role": "p",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Goldaniga",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Cuenca A.",
+      "role": "d",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "8"
+    },
+    {
+      "name": "Lahdo",
+      "role": "c",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Azon",
+      "role": "a",
+      "team": "COM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Christensen O.",
+      "role": "p",
+      "team": "FIO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Lezzerini",
+      "role": "p",
+      "team": "FIO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Lolic",
+      "role": "p",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Amey",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Gelli J.",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Oyono J.",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Corrado",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "El Azzouzi A.",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Kone B.",
+      "role": "c",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Sommariva",
+      "role": "p",
+      "team": "GEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Stolz",
+      "role": "p",
+      "team": "GEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Vogliacco",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Matturro",
+      "role": "d",
+      "team": "GEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Di Gennaro",
+      "role": "p",
+      "team": "INT",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Pinsoglio",
+      "role": "p",
+      "team": "JUV",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Rugani",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Cabal",
+      "role": "d",
+      "team": "JUV",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "4"
+    },
+    {
+      "name": "Motta",
+      "role": "p",
+      "team": "LAZ",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Renzetti",
+      "role": "p",
+      "team": "LAZ",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Patric",
+      "role": "d",
+      "team": "LAZ",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Belahyane",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Przyborek",
+      "role": "c",
+      "team": "LAZ",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "5"
+    },
+    {
+      "name": "Fruchtl",
+      "role": "p",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Samooja",
+      "role": "p",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Perez M.",
+      "role": "d",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Kaba",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Fofana Sa.",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Terracciano",
+      "role": "p",
+      "team": "MIL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Torriani",
+      "role": "p",
+      "team": "MIL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Pizzignacco",
+      "role": "p",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Strajnar",
+      "role": "p",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Antov",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Contini",
+      "role": "p",
+      "team": "NAP",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Marianucci",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Mazzocchi",
+      "role": "d",
+      "team": "NAP",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Corvi",
+      "role": "p",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "10"
+    },
+    {
+      "name": "Carboni F.",
+      "role": "d",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Cremaschi",
+      "role": "c",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "De Marzi",
+      "role": "p",
+      "team": "ROM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Gollini",
+      "role": "p",
+      "team": "ROM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Ziolkowski",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Vaz",
+      "role": "a",
+      "team": "ROM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "4"
+    },
+    {
+      "name": "Russo A.",
+      "role": "p",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Turati",
+      "role": "p",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Missori",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Pieragnolo",
+      "role": "d",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Iannoni",
+      "role": "c",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Moro L.",
+      "role": "a",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Mascardi",
+      "role": "p",
+      "team": "TOR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "13"
+    },
+    {
+      "name": "Paleari",
+      "role": "p",
+      "team": "TOR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Siviero",
+      "role": "p",
+      "team": "TOR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Ilic",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "8"
+    },
+    {
+      "name": "Anjorin",
+      "role": "c",
+      "team": "TOR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "4"
+    },
+    {
+      "name": "Padelli",
+      "role": "p",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Piana",
+      "role": "p",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Mlacic",
+      "role": "d",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Camara A.",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Zarraga",
+      "role": "c",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "4"
+    },
+    {
+      "name": "Bayo V.",
+      "role": "a",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Grandi",
+      "role": "p",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Pozzi",
+      "role": "p",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Gomes",
+      "role": "d",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Bjarkason",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Dagasso",
+      "role": "c",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Lisman",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Lauberbach",
+      "role": "a",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Vismara",
+      "role": "p",
+      "team": "ATA",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Satalino",
+      "role": "p",
+      "team": "SAS",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Penev",
+      "role": "p",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Pisseri",
+      "role": "p",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Radunovic",
+      "role": "p",
+      "team": "CAG",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "De Martis",
+      "role": "a",
+      "team": "PAR",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Montipò",
+      "role": "p",
+      "team": "VEN",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Omar Fayed",
+      "role": "d",
+      "team": "FRO",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Bleve",
+      "role": "p",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Laerke",
+      "role": "c",
+      "team": "LEC",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Comotto",
+      "role": "c",
+      "team": "MIL",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Foe Ondoa",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Mout",
+      "role": "c",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "2"
+    },
+    {
+      "name": "Lulli",
+      "role": "d",
+      "team": "ROM",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "3"
+    },
+    {
+      "name": "Grabara",
+      "role": "p",
+      "team": "JUV",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Maye",
+      "role": "d",
+      "team": "MON",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    },
+    {
+      "name": "Mrozek",
+      "role": "p",
+      "team": "UDI",
+      "quotazione_iniziale": "1",
+      "quotazione_attuale": "1",
+      "fvm": "1"
+    }
+  ]
+}
