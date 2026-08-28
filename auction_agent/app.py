@@ -88,15 +88,16 @@ def get_tierlist(role: str):
     
     sold_names = {p.player.lower() for p in state.sold_players}
     
-    # Filter by role and exclude sold players
+    # Filter by role and mark sold players
     available_players = []
     for p in gemini.quotazioni:
         if p.get("role", "").lower() == role.lower():
             name = p.get("name", "")
-            if name and name.lower() not in sold_names:
+            if name:
                 fvm_val = p.get("fvm", "0")
                 fvm_int = int(fvm_val) if str(fvm_val).isdigit() else 0
-                available_players.append({"name": name, "fvm": fvm_int, "team": p.get("team", "")})
+                is_sold = name.lower() in sold_names
+                available_players.append({"name": name, "fvm": fvm_int, "team": p.get("team", ""), "is_sold": is_sold})
     
     # Sort by FVM descending
     available_players.sort(key=lambda x: x["fvm"], reverse=True)

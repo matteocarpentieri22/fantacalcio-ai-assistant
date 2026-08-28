@@ -350,7 +350,12 @@ function App() {
               <div className="slot-title">Slot {slot.slot_number}</div>
               <ul className="slot-players">
                 {slot.players.map(p => (
-                  <li key={p.name} onClick={() => handleSearch(p.name)} title="Analizza">
+                  <li 
+                    key={p.name} 
+                    onClick={() => !p.is_sold && handleSearch(p.name)} 
+                    title={p.is_sold ? "Già venduto" : "Analizza"}
+                    className={p.is_sold ? "sold-player" : ""}
+                  >
                     <div className="slot-player-info">
                       <span className="slot-player-name">{p.name}</span>
                       {p.team && <span className="slot-player-team">{p.team.toUpperCase()}</span>}
