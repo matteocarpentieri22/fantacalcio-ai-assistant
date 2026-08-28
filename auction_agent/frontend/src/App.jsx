@@ -22,6 +22,8 @@ function App() {
   const [editingTeam, setEditingTeam] = useState(null);
   const [editNameValue, setEditNameValue] = useState("");
   const [expandedTeam, setExpandedTeam] = useState(null);
+  
+  const [apiKey, setApiKey] = useState(localStorage.getItem('geminiApiKey') || "");
 
   const searchRef = useRef(null);
 
@@ -67,7 +69,17 @@ function App() {
     setLoading(true);
     setResult(null);
     try {
-      const res = await fetch(`${API_URL}/advice/${encodeURIComponent(target)}`);
+      const currentKey = localStorage.getItem('geminiApiKey') || apiKey;
+      if (!currentKey) {
+        alert("Inserisci la tua Gemini API Key in alto a destra prima di chiedere all'Agente.");
+        setLoading(false);
+        return;
+      }
+      const res = await fetch(`${API_URL}/advice`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ player_name: target, api_key: currentKey })
+      });
       const data = await res.json();
       setResult(data);
     } catch (e) {
@@ -146,6 +158,12 @@ function App() {
     setEditingTeam(null);
   };
 
+  const handleApiKeyChange = (e) => {
+    const val = e.target.value;
+    setApiKey(val);
+    localStorage.setItem('geminiApiKey', val);
+  };
+
   const filteredPlayers = playersList.filter(p => p.toLowerCase().includes(search.toLowerCase())).slice(0, 10);
 
   return (
@@ -203,6 +221,15 @@ function App() {
       </div>
       
       <div className="main-content">
+        <div className="api-key-container">
+          <input 
+            type="password" 
+            className="api-key-input" 
+            placeholder="🔑 Incolla qui la tua Gemini API Key" 
+            value={apiKey} 
+            onChange={handleApiKeyChange} 
+          />
+        </div>
         <h1 className="title">Fantacalcio Auction Agent</h1>
         
         <div className="search-box" ref={searchRef}>

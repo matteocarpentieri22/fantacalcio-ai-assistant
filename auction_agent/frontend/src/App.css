@@ -191,6 +191,32 @@ body {
   position: relative;
 }
 
+.api-key-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 50;
+}
+
+.api-key-input {
+  background: rgba(15, 15, 25, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 10px 15px;
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.9rem;
+  width: 250px;
+  outline: none;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s;
+}
+
+.api-key-input:focus {
+  border-color: #8ec5fc;
+  box-shadow: 0 0 10px rgba(142, 197, 252, 0.3);
+}
+
 .title {
   font-size: 3.5rem;
   font-weight: 800;

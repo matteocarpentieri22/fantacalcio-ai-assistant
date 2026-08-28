@@ -8,11 +8,9 @@ class GeminiAgent:
     def __init__(self, data_dir: str):
         load_dotenv()
         self.api_key = os.environ.get("GEMINI_API_KEY", "")
+        # We don't configure genai here anymore, we do it per-request or globally when needed
         if self.api_key:
             genai.configure(api_key=self.api_key)
-            self.model = genai.GenerativeModel('gemini-2.5-pro')
-        else:
-            self.model = None
             
         self.data_dir = data_dir
         self.statistiche = self._load_json("statistiche.json")
@@ -85,10 +83,14 @@ class GeminiAgent:
 
         return data
 
-    def generate_advice(self, player_name: str, auction_state: Any) -> str:
-        if not self.model:
-            return "Errore: GEMINI_API_KEY non impostata come variabile d'ambiente."
+    def generate_advice(self, player_name: str, auction_state: Any, provided_api_key: str = None) -> str:
+        key = provided_api_key or self.api_key
+        if not key:
+            return "Errore: Inserisci la tua API Key nell'interfaccia."
             
+        genai.configure(api_key=key)
+        model = genai.GenerativeModel('gemini-2.5-pro')
+        
         player_data = self.find_player_data(player_name)
         
         # Costruisci lo stato della rosa dell'utente
@@ -133,7 +135,7 @@ Considera:
 Rispondi in modo diretto, come un coach al tavolo dell'asta. No preamboli.
 """
         try:
-            response = self.model.generate_content(prompt)
+            response = model.generate_content(prompt)
             return response.text
         except Exception as e:
             return f"Errore durante la connessione a Gemini: {str(e)}"

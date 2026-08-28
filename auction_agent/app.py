@@ -112,13 +112,17 @@ def get_tierlist(role: str):
         
     return slots
 
-@app.get("/advice/{player_name}")
-def get_advice(player_name: str):
+class AdviceRequest(BaseModel):
+    player_name: str
+    api_key: str = ""
+
+@app.post("/advice")
+def get_advice(req: AdviceRequest):
     # 1. Trova info base
-    data = gemini.find_player_data(player_name)
+    data = gemini.find_player_data(req.player_name)
     
     # 2. Genera testo Gemini
-    text = gemini.generate_advice(player_name, state)
+    text = gemini.generate_advice(req.player_name, state, req.api_key)
     
     # 3. Matchmaking difensori se ruolo è D o P
     # Poiché non abbiamo il ruolo certo nel payload iniziale se non dallo scraping, 
