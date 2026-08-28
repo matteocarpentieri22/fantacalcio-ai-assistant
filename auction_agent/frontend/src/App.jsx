@@ -24,6 +24,7 @@ function App() {
   const [expandedTeam, setExpandedTeam] = useState(null);
   
   const [apiKey, setApiKey] = useState(localStorage.getItem('geminiApiKey') || "");
+  const [isAuthenticated, setIsAuthenticated] = useState(!!localStorage.getItem('geminiApiKey'));
 
   const searchRef = useRef(null);
 
@@ -166,6 +167,32 @@ function App() {
 
   const filteredPlayers = playersList.filter(p => p.toLowerCase().includes(search.toLowerCase())).slice(0, 10);
 
+  if (!isAuthenticated) {
+    return (
+      <div className="login-page">
+        <div className="login-card">
+          <h1 className="login-title">Benvenuto nell'Agente</h1>
+          <p className="login-subtitle">Inserisci la tua chiave segreta Gemini per accedere al tavolo dell'asta.</p>
+          <input 
+            type="password" 
+            className="login-input" 
+            placeholder="🔑 Gemini API Key" 
+            value={apiKey} 
+            onChange={handleApiKeyChange}
+            onKeyDown={(e) => e.key === 'Enter' && apiKey && setIsAuthenticated(true)}
+          />
+          <button 
+            className="login-button" 
+            onClick={() => setIsAuthenticated(true)}
+            disabled={!apiKey}
+          >
+            Entra nell'Asta
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="app-container">
       <div className="sidebar">
@@ -221,15 +248,6 @@ function App() {
       </div>
       
       <div className="main-content">
-        <div className="api-key-container">
-          <input 
-            type="password" 
-            className="api-key-input" 
-            placeholder="🔑 Incolla qui la tua Gemini API Key" 
-            value={apiKey} 
-            onChange={handleApiKeyChange} 
-          />
-        </div>
         <h1 className="title">Fantacalcio Auction Agent</h1>
         
         <div className="search-box" ref={searchRef}>
